@@ -1,0 +1,7 @@
+#include<iostream>
+#include<conio.h>
+int main() 
+{
+cout<<"krishna Pandey";
+retion 0;
+}
